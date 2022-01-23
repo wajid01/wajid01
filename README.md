@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @wajid01
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 wajid01/wajid01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
