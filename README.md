@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wajid01
-- 👀 I’m a Game Developer 
+- 👀 I’m a Software Engineer
 - 🌱 I’m currently working on my skills and on some small projects 
 
 <!---
