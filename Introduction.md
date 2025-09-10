@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wajid01
-- 👀 I’m interested in game development 
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m a software Engineer 
+- 🌱 I am working with python and AI stuff 
 
 <!---
 wajid01/wajid01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
