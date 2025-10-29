@@ -17,7 +17,7 @@ I enjoy solving complex problems, optimizing performance, and learning new techn
 ### 💻 Backend Development
 - **Languages:** C#, Python, SQL  
 - **Frameworks:** ASP.NET Core, Entity Framework, LINQ  
-- **APIs:** RESTful API design, JWT Authentication,
+- **APIs:** REST API Architecture, RESTful API design, JWT Authentication,
 - **Databases:** SQL Server,SQLite  
 - **Architecture:** Clean Architecture, Repository Pattern, Dependency Injection  
 
