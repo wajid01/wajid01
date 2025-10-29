@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Wajid Ullah
 
-🎯 **Software Engineer | Backend Developer (.NET) | AI & Machine Learning **
+🎯 **Software Engineer | Backend Developer (.NET) | AI & Machine Learning Developer **
 
 ---
 
