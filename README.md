@@ -1,46 +1,62 @@
-# 👋 Hi, I’m Wajid Ullah
+🕹️ Wajid Ullah — Game Developer | Unity | C# | AI & Interactive Systems
 
-🎯 **Software Engineer | Backend Developer (.NET) | AI & Machine Learning Developer **
+Hi there 👋! I’m Wajid Ullah, a experianced Game Developer who loves turning ideas into fun, interactive, and visually appealing experiences.
+I specialize in Unity game development, C# scripting, and game systems design for both 2D and 3D games — including mobile and PC platforms.
 
----
+🚀 About Me
 
-## 🚀 About Me
-I’m a **Software Engineer** with a strong background in **ASP.NET Core (C#)** backend development and a growing passion for **Artificial Intelligence and Machine Learning**.  
-I love building **scalable APIs**, **data-driven applications**, and exploring ways to integrate **AI** into real-world solutions.
+🎮 Experienced with Unity Engine, C#, and LUA (Love2D Framework)
 
-I enjoy solving complex problems, optimizing performance, and learning new technologies that push the limits of what’s possible in backend and AI systems.
+🧠 Strong understanding of game mechanics, level design, and UI systems
 
----
+🧩 Worked on projects involving Surface Effector 2D, Cinemachine, and endless level generation
 
-## 🧠 Tech Stack
+🕹️ Built and optimized racing, parking, and arcade-style games
 
-### 💻 Backend Development
-- **Languages:** C#, Python, SQL  
-- **Frameworks:** ASP.NET Core, Entity Framework, LINQ  
-- **APIs:** REST API Architecture, RESTful API design, JWT Authentication,
-- **Databases:** SQL Server,SQLite  
-- **Architecture:** Clean Architecture, Repository Pattern, Dependency Injection  
+🧠 Currently exploring AI & procedural generation to make games more dynamic and intelligent
 
-### 🤖 AI & Machine Learning
-- **Languages & Tools:** Python, NumPy, pandas, scikit-learn, TensorFlow  
-- **Core Areas:** Data preprocessing, model training, evaluation, and deployment  
-- **Projects:** Predictive models, classification systems
+🧰 Tech Stack
+🎮 Game Development
 
-### 🛠 Tools & DevOps
-- Git / GitHub  
-- Docker (basics)  
-- Visual Studio / VS Code  
+Unity Engine (2D / 3D)
 
-## 📈 Current Goals
-- Strengthen expertise in **.NET 9**, **Azure**, and **AI model deployment**.  
-- Build projects that blend **backend engineering** with **intelligent automation**.  
-- Collaborate on open-source AI or backend projects.
+Love2D (LUA)
 
-- ⭐ **If you like my work, consider giving a star to my repositories or connecting with me on LinkedIn!**
+Cinemachine, Scriptable Objects, Physics2D
 
-- ## 🤝 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/wajidullah01/)
-<!---
-wajid01/wajid01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+UI Toolkit & Unity Animation System
+
+💻 Programming Languages
+
+C#
+
+LUA
+
+Python (for AI/ML integrations)
+
+JavaScript (Basic)
+
+⚙️ Tools & Workflow
+
+Visual Studio / VS Code
+
+Git & GitHub
+
+Blender (Basic Modeling)
+
+Photoshop / Figma for UI Assets
+
+
+🧠 What I’m Learning
+
+🎓 Advanced Game AI and Procedural Level Generation
+
+🧮 Machine Learning for Games (e.g., player behavior prediction, dynamic difficulty)
+
+🌐 Backend Integration for multiplayer games (using .NET Core and APIs)
+
+🌍 Let’s Connect
+
+💼 LinkedIn(https://www.linkedin.com/in/wajidullah01/)
+
+💻 Portfolio Website(https://wajidullah.itch.io/)
