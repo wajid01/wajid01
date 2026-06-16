@@ -1,59 +1,67 @@
-🕹️ Wajid Ullah — Game Developer | Unity | C# | AI & Interactive Systems
+# 👋 Hi, I'm Wajid Ullah
 
-Hi there 👋! I’m Wajid Ullah, a experianced Game Developer who loves turning ideas into fun, interactive, and visually appealing experiences.
-I specialize in Unity game development, C# scripting, and game systems design for both 2D and 3D games — including mobile and PC platforms.
+**Game Developer transitioning into Computer Vision** — bringing real-time systems thinking and visual/spatial problem-solving from interactive games into CV pipelines.
 
-🚀 About Me
+---
 
-🎮 Experienced with Unity Engine, C#, and LUA (Love2D Framework)
+## 🎯 Currently
 
-🧠 Strong understanding of game mechanics, level design, and UI systems
+🔭 Building a foundation in **Computer Vision**, starting with image preprocessing and OCR pipelines
+🎮 3+ years shipping games in **Unity (C#)** — racing, parking, and arcade-style titles
+🧠 Exploring how the visual/spatial intuition from game dev (physics, rendering, real-time constraints) carries over to CV problems
+📚 Learning Python-based CV tooling (OpenCV, [PyTorch/TensorFlow if applicable]) alongside ML fundamentals for player behavior prediction
 
-🧩 Worked on projects involving Surface Effector 2D, Cinemachine, and endless level generation
+---
 
-🕹️ Built and optimized racing, parking, and arcade-style games
+## 🧩 Why Game Dev → Computer Vision
 
-🧠 Currently exploring AI & procedural generation to make games more dynamic and intelligent
+Years building real-time visual systems in Unity — physics, rendering, spatial logic, performance under tight frame budgets — turned out to be close cousins of CV problems: both are about extracting structure from visual data fast and reliably. I'm now applying that same instinct to image processing and pattern recognition, starting with hands-on OCR preprocessing work.
 
-🧰 Tech Stack
-🎮 Game Development
+---
 
-Unity Engine (2D / 3D)
+## 🛠️ What I Bring From Game Dev
 
-Love2D (LUA)
+- **Real-time systems** — built and optimized gameplay loops where performance and correctness both mattered
+- **Spatial/visual reasoning** — Physics2D, Cinemachine, procedural/endless level generation
+- **Production discipline** — shipped, debugged, and iterated on full projects, not just prototypes
+- **C# and tooling fluency** — comfortable picking up new languages and SDKs quickly (LUA/Love2D, now Python)
 
-Cinemachine, Scriptable Objects, Physics2D
+---
 
-UI Toolkit & Unity Animation System
+## 👁️ Computer Vision Work
 
-💻 Programming Languages
+- **OCR Preprocessing** — built image preprocessing pipelines ([noise reduction / binarization / contour detection — describe your actual steps]) to improve OCR accuracy on [type of input, e.g. scanned documents / receipts]
+- Currently exploring: [object detection / image classification / whatever you're studying next]
 
-C#
+*(This section will grow as I take on more CV projects — check back or see pinned repos below.)*
 
-LUA
+---
 
-Python (for AI/ML integrations)
+## 🧰 Tech Stack
 
-JavaScript (Basic)
+**Computer Vision / ML**
+Python · OpenCV · [add: NumPy, PyTorch, TensorFlow, scikit-image — whichever you actually use]
 
-⚙️ Tools & Workflow
+**Game Development**
+Unity Engine (2D/3D) · C# · LUA (Love2D) · Cinemachine · Scriptable Objects · Physics2D · UI Toolkit
 
-Visual Studio / VS Code
+**Tools & Workflow**
+Git/GitHub · VS Code · Visual Studio · Blender (basic) · Figma/Photoshop
 
-Git & GitHub
+---
 
-Blender (Basic Modeling)
+## 📈 What I'm Learning Next
 
-Photoshop / Figma for UI Assets
+- Classical CV fundamentals (filtering, edge detection, feature extraction)
+- Deep learning basics for vision (CNNs, transfer learning)
+- Backend/API integration to connect CV models to real applications
 
+---
 
-🧠 What I’m Learning
+## 🌍 Let's Connect
 
-🎓 Advanced Game AI and Procedural Level Generation
+*Open to computer vision internships/junior roles, and happy to talk shop on either game dev or CV.*
 
-🧮 Machine Learning for Games (e.g., player behavior prediction, dynamic difficulty)
-
-🌐 Backend Integration for multiplayer games (using .NET Core and APIs)
 
 🌍 Let’s Connect
 
