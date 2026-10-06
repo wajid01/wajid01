@@ -1,70 +1,61 @@
-# 👋 Hi, I'm Wajid Ullah
+Hi, I'm Wajid Ullah
 
-**Game Developer transitioning into Computer Vision** — bringing real-time systems thinking and visual/spatial problem-solving from interactive games into CV pipelines.
+Game Developer working with Unity and C#, with professional experience building and working on mobile and PC games.
 
----
+I enjoy working on gameplay systems, game UI, player controls, mechanics, and the code behind making a game feel responsive and reliable.
 
-## 🎯 Currently
+About Me
 
-🔭 Building a foundation in **Computer Vision**, starting with image preprocessing and OCR pipelines
-🎮 3+ years shipping games in **Unity (C#)** — racing, parking, and arcade-style titles
-🧠 Exploring how the visual/spatial intuition from game dev (physics, rendering, real-time constraints) carries over to CV problems
-📚 Learning Python-based CV tooling (OpenCV, [PyTorch/TensorFlow if applicable]) alongside ML fundamentals for player behavior prediction
+I have worked on games across different genres, including racing, parking, arcade-style, and smaller experimental projects.
 
----
+My main experience is with Unity and C#, along with Lua/LÖVE2D. I've worked with gameplay logic, UI, animations, physics, input systems, and mobile controls.
 
-## 🧩 Why Game Dev → Computer Vision
+I also like improving existing projects — cleaning up code, separating gameplay logic from visuals, fixing bugs, and making systems easier to maintain and reuse.
 
-Years building real-time visual systems in Unity — physics, rendering, spatial logic, performance under tight frame budgets — turned out to be close cousins of CV problems: both are about extracting structure from visual data fast and reliably. I'm now applying that same instinct to image processing and pattern recognition, starting with hands-on OCR preprocessing work.
+Game Development
+Unity 2D and 3D
+C# gameplay programming
+Lua / LÖVE2D
+Player controllers and movement systems
+Keyboard, mobile touch, and gamepad controls
+Unity Input System
+Physics and gameplay mechanics
+Game UI and menus
+Animations and transitions
+AI behavior concepts
+Level and gameplay systems
+ScriptableObjects and data-driven systems
+Object pooling
+Git and GitHub
+Projects
 
----
+Some of the projects I've worked on include:
 
-## 🛠️ What I Bring From Game Dev
+Cosmic Thrust
+A small 3D rocket game where the player navigates through obstacles and reaches the target. The project includes multiple levels, keyboard/gamepad/mobile controls, retry and level progression systems, and gameplay based on landing speed and angle.
 
-- **Real-time systems** — built and optimized gameplay loops where performance and correctness both mattered
-- **Spatial/visual reasoning** — Physics2D, Cinemachine, procedural/endless level generation
-- **Production discipline** — shipped, debugged, and iterated on full projects, not just prototypes
-- **C# and tooling fluency** — comfortable picking up new languages and SDKs quickly (LUA/Love2D, now Python)
+Mobile Racing & Parking Games
+Professional Unity projects involving gameplay and UI work for Android games, including player controls, menus, animations, and game systems.
 
----
+Love2D Coin Collection Game
+A small 2D game built with Lua and LÖVE2D, focused on basic player movement, collecting objects, scoring, and game logic.
 
-## 👁️ Computer Vision Work
+2D Action RPG Prototype
+A Unity prototype exploring tilemaps, player movement, animation, and basic gameplay systems.
 
-- **OCR Preprocessing** — built image preprocessing pipelines ([noise reduction / binarization / contour detection — describe your actual steps]) to improve OCR accuracy on [type of input, e.g. scanned documents / receipts]
-- Currently exploring: [object detection / image classification / whatever you're studying next]
+Tools
 
-*(This section will grow as I take on more CV projects — check back or see pinned repos below.)*
+Game Development
+Unity · C# · Lua · LÖVE2D · Unity Input System · Physics2D/3D · Cinemachine
 
----
+Tools
+Git · GitHub · Visual Studio · VS Code · Blender · Figma · Photoshop
 
-## 🧰 Tech Stack
+What I'm Working On
 
-**Computer Vision / ML**
-Python · OpenCV · [add: NumPy, PyTorch, TensorFlow, scikit-image — whichever you actually use]
+I'm currently building and improving Unity projects while focusing on better gameplay programming practices, cleaner architecture, reusable systems, and creating games that are actually playable rather than just following tutorials.
 
-**Game Development**
-Unity Engine (2D/3D) · C# · LUA (Love2D) · Cinemachine · Scriptable Objects · Physics2D · UI Toolkit
+Links
 
-**Tools & Workflow**
-Git/GitHub · VS Code · Visual Studio · Blender (basic) · Figma/Photoshop
-
----
-
-## 📈 What I'm Learning Next
-
-- Classical CV fundamentals (filtering, edge detection, feature extraction)
-- Deep learning basics for vision (CNNs, transfer learning)
-- Backend/API integration to connect CV models to real applications
-
----
-
-## 🌍 Let's Connect
-
-*Open to computer vision internships/junior roles, and happy to talk shop on either game dev or CV.*
-
-
-🌍 Let’s Connect
-
-💼 LinkedIn(https://www.linkedin.com/in/wajidullah01/)
-
-💻 Portfolio Website(https://wajidullah.itch.io/)
+Portfolio: https://wajidullah.itch.io/
+GitHub: https://github.com/wajid01
